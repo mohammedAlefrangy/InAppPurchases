@@ -1,0 +1,59 @@
+{
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "4382FCF0",
+      "localizations" : [
+        {
+          "description" : "Remove all ads in this app",
+          "displayName" : "Remove Ads",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.mohammed.InAppPurchases.removeAds",
+      "referenceName" : "Remove Ads",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "34152121",
+      "localizations" : [
+        {
+          "description" : "UnlockEverything in this app",
+          "displayName" : "UnlockEverything",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.mohammed.InAppPurchases.unlockEverything",
+      "referenceName" : "UnlockEverything",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "E893F277",
+      "localizations" : [
+        {
+          "description" : "Get the coins ",
+          "displayName" : "GetCoins",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.mohammed.InAppPurchases.getCoins",
+      "referenceName" : "GetCoins",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 0
+  }
+}
